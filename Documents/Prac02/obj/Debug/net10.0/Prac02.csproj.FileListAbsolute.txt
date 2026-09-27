@@ -1,0 +1,15 @@
+C:\Users\ndrdn\Documents\Prac02\bin\Debug\net10.0\Prac02.exe
+C:\Users\ndrdn\Documents\Prac02\bin\Debug\net10.0\Prac02.deps.json
+C:\Users\ndrdn\Documents\Prac02\bin\Debug\net10.0\Prac02.runtimeconfig.json
+C:\Users\ndrdn\Documents\Prac02\bin\Debug\net10.0\Prac02.dll
+C:\Users\ndrdn\Documents\Prac02\bin\Debug\net10.0\Prac02.pdb
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\Prac02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\Prac02.AssemblyInfoInputs.cache
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\Prac02.AssemblyInfo.cs
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\Prac02.csproj.CoreCompileInputs.cache
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\Prac02.sourcelink.json
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\Prac02.dll
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\refint\Prac02.dll
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\Prac02.pdb
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\Prac02.genruntimeconfig.cache
+C:\Users\ndrdn\Documents\Prac02\obj\Debug\net10.0\ref\Prac02.dll
